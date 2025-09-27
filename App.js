@@ -4,7 +4,7 @@ import { SafeAreaView, Text } from 'react-native';
 const App = () => {
   return (
     <SafeAreaView>
-      <Text>Willkommen beim Augmented Reality Tour Guide!</Text>
+      <Text>Welcome to the Augmented Reality Tour Guide!</Text>
     </SafeAreaView>
   );
 };
