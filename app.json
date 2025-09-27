@@ -1,1 +1,11 @@
-{}
+{
+  "name": "MyApp",
+  "version": "1.0.0",
+  "description": "A basic application structure",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
